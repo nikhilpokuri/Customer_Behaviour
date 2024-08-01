@@ -19,7 +19,7 @@ my-pyspark-project/
 |- requirements.txt  # List of Python dependencies
 ```
 
-## Files and Modules
+## Files or Modules
 
 ### 1. data_ingestion.py
 
